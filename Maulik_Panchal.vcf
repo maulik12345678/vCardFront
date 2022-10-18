@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Maulik;Panchal;;;
+FN:Panchal Maulik
+ORG:HiddenBrains
+ADR;TYPE=WORK:
+TITLE:HB Dev
+TEL;TYPE=CELL:05564654564
+EMAIL;TYPE=WORK:maulik.panchal@hiddenbrains.in
+URL;TYPE=WhatsApp:https://wa.me/fyhdh
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Desc :  Coming Soon ....
+UID:HiddenBrain-vCard
+END:VCARD
